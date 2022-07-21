@@ -1,0 +1,3 @@
+.banner {
+	background-image:
+    url(https://thumbs.dreamstime.com/b/rainwater-harvesting-as-water-resource-accumulation-home-outline-concept-rainwater-harvesting-as-water-resource-accumulation-208509138.jpg");

@@ -1,0 +1,109 @@
+body, html {
+	font-family: 'Oswald', sans-serif;
+	color: black;
+	margin: 1;
+	font-size: 16px;
+}
+header {
+	display: block;
+	width: 100%;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px black solid;
+	width: 60%;
+	height: 70%;
+}
+ul.izbornik {
+	list-style-type:none;
+	margin: 0;
+	padding: 0;
+	overflow:hidden;
+	background-color: rgb(54, 224, 20);
+}
+li {
+	float: left;
+}
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+li a:hover {
+	background-color: #111;
+}
+
+h1 {
+	text-align: center;
+	font-size: 300%;
+	color:rgb(54, 224, 20);
+	text-shadow:0 0 4px black;	
+}
+
+hr {
+	margin: 1em;
+	border: 1px solid rgb(54, 224, 20);
+	clear: both;
+}
+
+.news h1 {
+    text-align: left;
+    margin-left: 0.5cm;
+    margin-top: 2cm;
+    margin-bottom: 1cm;
+}
+.news img {
+    width: 12%;
+	float: left;
+	padding: 0.5em;
+	margin-bottom: 3cm;
+	margin: 0 1em 0.5em 0.5em;
+}
+
+.news time {
+	margin-top: 2cm;
+	font-style: italic;
+	color:rgb(54, 54, 53)
+}
+
+figure {
+	width: 100;
+	height: 100;
+	margin: 1cm;
+	padding-top: 0.5cm;
+	text-align: center;
+	float:center;
+	border: 3px solid black;
+}
+
+figcaption {
+	text-align: center;
+	position: relative;
+	margin-top: 0.5cm;
+	margin-bottom: 0.5cm;
+	padding-bottom: 0.5cm;
+	width: 100;
+	font-size: 90%;
+	}
+
+ul.footer {
+	text-align: center;
+	font-weight: bold;
+	position: fixed;
+	margin-bottom: 0%;
+    	bottom: 0;
+    	width: 100%;
+    	height: 55px;
+    	background: grey;
+}
+
+footer img {
+	width: 20px;
+}
+
+

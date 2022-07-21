@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Kućni obnovljivi izvori</title>
+
+	<meta charset=UTF-8>
+	<meta name="description" content="Kućni obnovljivi izvori">
+	<meta name="keywords" content="PROJEKT">
+	<meta name="author" content="Lovro Seke">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="stylesheet" href="banner9.css">
+	<script type="text/javascript" src="C:\Users\MINISTAR OBRANE\Desktop\\JS_PROJEKT\solarna_elektrana.js"></script>
+</head>
+
+<body>
+	<header>
+		<nav>
+			<ul class="izbornik">
+				<li><a href="INDEX4.html">Početna stranica</a></li>
+				<li><a href="news.html">Novosti</a></li>
+				<li><a href="kontakt.html">Kontakt</a></li>
+				<li><a href="o_nama.html">O nama</a></li>
+				<li><a href="galerija.html">Galerija</a></li>
+				<li><a href="kalkulator.html">Kalkulator</a></li>
+			</ul>
+		</nav>
+	</header>
+	<br>
+	<br>
+	<p><b>Izračunajte učinkovitost svoje solarne elektrane pomoću ovog kalkulatora.</b></p>
+	<br>
+	<label for="paneli">Broj solarnih panela *</label>
+	<br>
+	<input type="number" id="inputpaneli" name="paneli" style="height:25px" min="1" required>
+	<br>
+	<br>
+	<label for="snaga">Snaga solarnog panela u vatima *</label>
+	<br>
+	<input type="number" id="inputsnaga" name="snaga" placeholder="W" style="height:25px" min="1" required>
+	<br>
+	<br>
+	<label for="zupanija">Vaša županija *</label>
+	<br>
+	<select onclick="getOption()" id="inputzupanija" name="zupanija">
+		<option value="">Odaberite...</option>
+		<option value="5.4">Zagrebačka</option>
+		<option value="5.5">Krapinsko-zagorska</option>
+		<option value="5.3">Sisačko-moslavačka</option>
+		<option value="5.3">Karlovačka</option>
+		<option value="5.7">Varaždinska</option>
+		<option value="5.5">Koprivničko-križevačka</option>
+		<option value="5.4">Bjelovarsko-bilogorska</option>
+		<option value="6.6">Primorsko-goranska</option>
+		<option value="5.5">Ličko-senjska</option>
+		<option value="5.4">Virovitičko-podravska</option>
+		<option value="5.3">Požeško-slavonska</option>
+		<option value="5.3">Brodsko-posavska</option>
+		<option value="7.2">Zadarska</option>
+		<option value="5.4">Osječko-baranjska</option>
+		<option value="7.1">Šibensko-kninska</option>
+		<option value="5.4">Vukovarsko-srijemska</option>
+		<option value="7.4">Splitsko-dalmatinska</option>
+		<option value="6.4">Istarska</option>
+		<option value="7.3">Dubrovačko-neretvanska</option>
+		<option value="5.6">Međimurska</option>
+		<option value="5.4">Grad Zagreb</option>
+	</select>
+	<br>
+	<p> Dnevni prosjek sunčanih sati kroz godinu:
+		<span class="output"></span>
+		<br>
+		<br>
+		<br>
+		<br>
+		<label for="izračun">U jednom danu proizvest ćete sljedeću količinu snage:</label> <button onclick="rezultat()">Izračunaj</button>
+		<br>
+		<input id="result" placeholder="Wh" type="text" name="kolicinaPanela" />

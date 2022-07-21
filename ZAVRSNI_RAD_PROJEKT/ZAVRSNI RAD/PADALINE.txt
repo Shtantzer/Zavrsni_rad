@@ -1,0 +1,45 @@
+UKUPNA KOLIČINA PADALINA PO ŽUPANIJAMA
+
+Zagrebačka županija: Oborovo(825,8), Pisarovina(897,9), Samobor(897,6), 
+
+Krapinsko-zagorska županija: Krapina(849,1), Pregrada(1.014,6), Pula(628,5), Pula - aerodrom(693,6), Puntijarka(1.080,7), 
+
+Sisačko-moslavačka županija: Hrvatska Kostajnica(915,2), Kutina(852,5), Lekenik(891,7), Novska(911,9), Petrinja(911,0), 
+
+Karlovačka županija: Bosiljevo(1.095,9), Gorinci(1.231,6), Karlovac(959,5), Ogulin(1.518,7), Plaški(1.591,3), 
+
+Varaždinska županija: Bednja(1.034,9), Ludbreg - Hrastovsko(782,2), Novi Marof(746,4), 
+
+Koprivničko-križevačka županija: Đurđevac(731,7), Koprivnica(647,1), Križevci(691,5), 
+
+Bjelovarsko-bilogorska županija: Bilogora(848,4), Bjelovar(694,2), Čazma(835,1), Daruvar(798,8), 
+
+Primorsko-goranska županija: Bakar(1.568,9), Cres(999,8), Crikvenica(1.166,6), Crni Lug - NP Risnjak(2.599,3), Delnice(2.035,5), Krk(1.165,4), Kukuljanovo(1.483,0), Mali Lošinj(770,7), Parg(1.586,3), Rab(1.080,9), Rijeka(1.331,3), Rijeka - aerodrom(1.167,1), 	 
+
+Ličko-senjska županija: Brinje(1.126,7), Donji Lapac(1.431,3), Gospić(1.367,7), Korenica(1.559,3), Krbava(873,1), Ličko Lešće(1.127,0), Lovinac(1.507,8), Otočac(1.002,2), Plitvička Jezera(1.597,4), Senj(1.320,9), 
+
+Virovitičko-podravska županija: 
+
+Požeško-slavonska županija: Brestovac Belje(795,2), Kutjevo - Vidim(746,1), Lipik(809,8), Požega(884,6), 
+
+Brodsko-posavska županija: Gorice(825,8), Nova Gradiška - Cernik(869,7), 
+
+Zadarska županija: Benkovac(838,6), Biograd na moru(849,9), Božava(656,3), Gračac(2.012,2), Novigrad(910,4), Pag(972,0), 
+
+Osječko-baranjska županija: Beli Manastir(735,6), Bilje(692,7), Donji Miholjac(733,0), Đakovo(731,7), Našice(849,0), Osijek(697,8), Osijek - Klisa aerodrom(700,2), Osijek - Tvrđavica(693,2)
+
+Šibensko-kninska županija: Drniš(932,4), Knin(1.051,2), 
+
+Vukovarsko-srijemska županija: Gradište(670,5), Ilok(768,6), Račinovci Kl(733,1), 
+
+Splitsko-dalmatinska županija: Bol(873,7), Hvar(835,1), Imotski(1.218,6), Jelsa(912,3), Komiža(638,0), Makarska(1.080,6), Palagruža(224,3), Ričice - Brana(1.267,7), 
+
+Istarska županija: Botonega(829,9), Čepić(1.005,9), Letaj - Brana(1.013,0), Novigrad Istra(774,8), Pazin(868,5), Poreč(737,3), Rovinj(660,4), 
+
+Dubrovačko-neretvanska županija: Dubrovnik(1.101,0), Dubrovnik - aerodrom(1.236,0), Goveđari klim.(923,2), Korčula(1.101,0), Kuna(1.290,5), Lastovo(624,4), Metković(1.487,4), Opuzen(1.417,3), Ploče(1.128,4), 
+
+Međimurska županija: 
+
+Grad Zagreb: 
+
+79,6+42,8+31,1+59,0+62,5+10,9+103,3+24,1+77,4+67,0+82,2

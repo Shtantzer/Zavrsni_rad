@@ -1,0 +1,11 @@
+Izrada kalkulatora i procjena energetske učinkovitosti
+korištenjem programskog jezika Javascript
+
+
+
+
+
+DODAO POZADINSKI VIDEO NA STRANICU
+DODAO KALKULATOR NA IZBORNIKU
+SKUPLJAO PODATKE O PADALINAMA PO ZUPANIJAMA
+ZAVRSIO SA SKUPLJANEM PADALINA
